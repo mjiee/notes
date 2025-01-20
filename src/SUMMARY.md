@@ -3,7 +3,7 @@
 - [学习笔记](README.md)
 
 # 运维笔记
-
+- [运维笔记](ops/README.md)
 - [Linux](ops/linux/README.md)
   - [1 Linux基础](ops/linux/1-linux-ji-chu/README.md)
     - [1.1 linux安装](ops/linux/1-linux-ji-chu/1.1-linux-an-zhuang.md)
@@ -356,7 +356,7 @@
 
 # rust笔记
 
-- [Rust学习笔记](README.md)
+- [Rust学习笔记](rust/README.md)
 - [Rust基础](rust/basics/README.md)
   - [1 开发环境](rust/basics/1-kai-fa-huan-jing/README.md)
     - [1.1 rust安装](rust/basics/1-kai-fa-huan-jing/1.1-rust-an-zhuang.md)
