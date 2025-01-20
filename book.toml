@@ -1,0 +1,20 @@
+[book]
+authors = ["mjiee"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "notes"
+description="个人学习笔记"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://gitee.com/mjiee/notes.git"
+git-repository-icon = "fa-github"
+edit-url-template = "https://gitee.com/mjiee/notes/edit/master/{path}"
+site-url = "/"
+cname="note.mjiee.top"
+input-404 = "assets/404.md"
+
+[output.html.fold]
+enable = true
+level = 0
